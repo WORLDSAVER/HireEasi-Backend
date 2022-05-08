@@ -1,0 +1,21 @@
+16:21:05 [index.ts] info: Environment: development
+16:21:06 [index.ts] info: Database connection established
+16:21:06 [index.ts] info: Listening to port 3333
+16:21:26 [index.ts] info: Environment: undefined
+16:21:26 [index.ts] info: Database connection established
+16:21:26 [index.ts] info: Listening to port 3333
+16:21:39 [index.ts] info: Environment: development
+16:21:40 [index.ts] info: Database connection established
+16:21:40 [index.ts] info: Listening to port 3333
+16:23:03 [index.ts] info: Environment: development
+16:23:05 [index.ts] info: Database connection established
+16:23:05 [index.ts] info: Listening to port 3333
+16:23:27 [index.ts] info: Environment: development
+16:23:27 [index.ts] info: Database connection established
+16:23:27 [index.ts] info: Listening to port 3333
+16:23:35 [index.ts] [32minfo[39m: Environment: development
+16:23:35 [index.ts] [32minfo[39m: Database connection established
+16:23:35 [index.ts] [32minfo[39m: Listening to port 3333
+16:24:40 [index.ts] [32minfo[39m: Environment: development
+16:24:40 [index.ts] [32minfo[39m: Database connection established
+16:24:40 [index.ts] [32minfo[39m: Listening to port 3333

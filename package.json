@@ -1,0 +1,42 @@
+{
+  "name": "HireEasiAPI",
+  "version": "0.0.1",
+  "description": "Awesome project developed with TypeORM.",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/joi": "^17.2.3",
+    "@types/node": "^16.11.10",
+    "ts-node": "10.7.0",
+    "typescript": "4.5.2"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "express-sanitizer": "^1.0.6",
+    "helmet": "^5.0.2",
+    "http-status": "^1.5.2",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16",
+    "pg": "^8.4.0",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "0.3.6",
+    "winston": "^3.7.2",
+    "xss-clean": "^0.1.1"
+  },
+  "scripts": {
+    "start": "node build/index.js",
+    "dev": "nodemon --exec ts-node src/index.ts",
+    "build": "tsc --build",
+    "typeorm": "typeorm-ts-node-commonjs",
+    "start:db:down": "docker compose rm db-dev -s -f -v",
+    "start:db:up": "docker compose up -d db-dev",
+    "start:restart": "yarn start:db:down && yarn start:db:up"
+  }
+}
