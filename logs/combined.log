@@ -19,3 +19,134 @@
 16:24:40 [index.ts] [32minfo[39m: Environment: development
 16:24:40 [index.ts] [32minfo[39m: Database connection established
 16:24:40 [index.ts] [32minfo[39m: Listening to port 3333
+14:52:34 [index.ts] [32minfo[39m: Environment: development
+14:52:34 [index.ts] [31merror[39m: Database connection error:  connect ECONNREFUSED 127.0.0.1:5434
+14:56:01 [index.ts] [32minfo[39m: Environment: development
+14:56:01 [index.ts] [32minfo[39m: Database connection established
+14:56:01 [index.ts] [32minfo[39m: Listening to port 3333
+15:09:40 [index.ts] [32minfo[39m: Environment: development
+15:09:40 [index.ts] [32minfo[39m: Database connection established
+15:09:40 [index.ts] [32minfo[39m: Listening to port 3333
+15:12:14 [index.ts] [31merror[39m: Error: Not Found
+15:12:53 [index.ts] [31merror[39m: Error: Not Found
+15:12:55 [index.ts] [31merror[39m: Error: Not Found
+15:12:55 [index.ts] [31merror[39m: Error: Not Found
+15:13:18 [index.ts] [31merror[39m: Error: Not Found
+15:13:40 [index.ts] [32minfo[39m: Environment: development
+15:13:40 [index.ts] [32minfo[39m: Database connection established
+15:13:40 [index.ts] [32minfo[39m: Listening to port 3333
+15:13:41 [index.ts] [31merror[39m: Error: Connection "default" was not found.
+15:13:56 [index.ts] [32minfo[39m: Environment: development
+15:13:56 [index.ts] [32minfo[39m: Database connection established
+15:13:56 [index.ts] [32minfo[39m: Listening to port 3333
+15:14:15 [index.ts] [31merror[39m: Error: Connection "default" was not found.
+15:14:40 [index.ts] [32minfo[39m: Environment: development
+15:14:40 [index.ts] [32minfo[39m: Database connection established
+15:14:40 [index.ts] [32minfo[39m: Listening to port 3333
+15:20:07 [index.ts] [32minfo[39m: Environment: development
+15:20:07 [index.ts] [31merror[39m: Database connection error:  No connection options were found in any orm configuration files.
+15:20:54 [index.ts] [32minfo[39m: Environment: development
+15:20:54 [index.ts] [31merror[39m: Database connection error:  No connection options were found in any orm configuration files.
+15:21:57 [index.ts] [32minfo[39m: Environment: development
+15:21:57 [index.ts] [31merror[39m: Database connection error:  No connection options were found in any orm configuration files.
+15:22:05 [index.ts] [32minfo[39m: Environment: development
+15:22:05 [index.ts] [31merror[39m: Database connection error:  No connection options were found in any orm configuration files.
+15:23:15 [index.ts] [32minfo[39m: Environment: development
+15:23:15 [index.ts] [31merror[39m: Database connection error:  No connection options were found in any orm configuration files.
+15:24:47 [index.ts] [32minfo[39m: Environment: development
+15:24:47 [index.ts] [32minfo[39m: Database connection established
+15:24:47 [index.ts] [32minfo[39m: Listening to port 3333
+15:24:50 [index.ts] [31merror[39m: Error: User not found
+15:27:03 [index.ts] [32minfo[39m: Environment: development
+15:27:03 [index.ts] [32minfo[39m: Database connection established
+15:27:03 [index.ts] [32minfo[39m: Listening to port 3333
+15:27:14 [index.ts] [32minfo[39m: Environment: development
+15:27:14 [index.ts] [32minfo[39m: Database connection established
+15:27:14 [index.ts] [32minfo[39m: Listening to port 3333
+15:27:23 [index.ts] [32minfo[39m: Environment: development
+15:27:23 [index.ts] [32minfo[39m: Database connection established
+15:27:23 [index.ts] [32minfo[39m: Listening to port 3333
+15:27:42 [index.ts] [32minfo[39m: Environment: development
+15:27:42 [index.ts] [32minfo[39m: Database connection established
+15:27:42 [index.ts] [32minfo[39m: Listening to port 3333
+15:29:01 [index.ts] [32minfo[39m: Environment: development
+15:29:01 [index.ts] [32minfo[39m: Database connection established
+15:29:01 [index.ts] [32minfo[39m: Listening to port 3333
+15:29:08 [index.ts] [32minfo[39m: Environment: development
+15:29:08 [index.ts] [32minfo[39m: Database connection established
+15:29:08 [index.ts] [32minfo[39m: Listening to port 3333
+15:29:10 [index.ts] [31merror[39m: Error: "name" is required, "access_level" is required, "first_name" is not allowed, "middle_name" is not allowed, "last_name" is not allowed, "confirm_password" is not allowed
+15:29:40 [index.ts] [32minfo[39m: Environment: development
+15:29:40 [index.ts] [32minfo[39m: Database connection established
+15:29:40 [index.ts] [32minfo[39m: Listening to port 3333
+15:30:10 [index.ts] [32minfo[39m: Environment: development
+15:30:10 [index.ts] [32minfo[39m: Database connection established
+15:30:10 [index.ts] [32minfo[39m: Listening to port 3333
+15:30:19 [index.ts] [32minfo[39m: Environment: development
+15:30:19 [index.ts] [32minfo[39m: Database connection established
+15:30:19 [index.ts] [32minfo[39m: Listening to port 3333
+15:30:38 [index.ts] [31merror[39m: Error: "middle_name" is not allowed to be empty, "confirm_password" is not allowed
+15:31:04 [index.ts] [32minfo[39m: Environment: development
+15:31:04 [index.ts] [32minfo[39m: Database connection established
+15:31:04 [index.ts] [32minfo[39m: Listening to port 3333
+15:31:23 [index.ts] [32minfo[39m: Environment: development
+15:31:23 [index.ts] [32minfo[39m: Database connection established
+15:31:23 [index.ts] [32minfo[39m: Listening to port 3333
+15:31:27 [index.ts] [31merror[39m: Error: "confirm_password" is not allowed
+15:31:46 [index.ts] [31merror[39m: Error: Invalid password
+15:32:50 [index.ts] [32minfo[39m: Environment: development
+15:32:50 [index.ts] [32minfo[39m: Database connection established
+15:32:50 [index.ts] [32minfo[39m: Listening to port 3333
+15:33:04 [index.ts] [32minfo[39m: Environment: development
+15:33:04 [index.ts] [32minfo[39m: Database connection established
+15:33:04 [index.ts] [32minfo[39m: Listening to port 3333
+15:33:15 [index.ts] [31merror[39m: Error: Not Found
+15:33:33 [index.ts] [31merror[39m: Error: Not Found
+15:33:33 [index.ts] [31merror[39m: Error: Not Found
+15:33:34 [index.ts] [31merror[39m: Error: Not Found
+15:33:38 [index.ts] [31merror[39m: Error: Refresh token not found
+15:34:13 [index.ts] [32minfo[39m: Environment: development
+15:34:13 [index.ts] [32minfo[39m: Database connection established
+15:34:13 [index.ts] [32minfo[39m: Listening to port 3333
+15:34:16 [index.ts] [31merror[39m: Error: Refresh token not found
+15:36:39 [index.ts] [32minfo[39m: Environment: development
+15:36:39 [index.ts] [32minfo[39m: Database connection established
+15:36:39 [index.ts] [32minfo[39m: Listening to port 3333
+15:36:42 [index.ts] [31merror[39m: Error: Refresh token not found
+15:37:20 [index.ts] [32minfo[39m: Environment: development
+15:37:20 [index.ts] [32minfo[39m: Database connection established
+15:37:20 [index.ts] [32minfo[39m: Listening to port 3333
+15:37:22 [index.ts] [31merror[39m: Error: Refresh token not found
+15:38:18 [index.ts] [32minfo[39m: Environment: development
+15:38:18 [index.ts] [32minfo[39m: Database connection established
+15:38:18 [index.ts] [32minfo[39m: Listening to port 3333
+15:39:07 [index.ts] [31merror[39m: Error: Refresh token not found
+15:39:07 [index.ts] [31merror[39m: Error: Refresh token not found
+15:39:36 [index.ts] [32minfo[39m: Environment: development
+15:39:36 [index.ts] [32minfo[39m: Database connection established
+15:39:36 [index.ts] [32minfo[39m: Listening to port 3333
+15:39:38 [index.ts] [31merror[39m: Error: Refresh token not found
+15:40:37 [index.ts] [31merror[39m: Error: Refresh token not found
+15:41:36 [index.ts] [32minfo[39m: Environment: development
+15:41:36 [index.ts] [32minfo[39m: Database connection established
+15:41:36 [index.ts] [32minfo[39m: Listening to port 3333
+15:42:09 [index.ts] [32minfo[39m: Environment: development
+15:42:10 [index.ts] [32minfo[39m: Database connection established
+15:42:10 [index.ts] [32minfo[39m: Listening to port 3333
+15:42:11 [index.ts] [31merror[39m: Error: Refresh token not found
+15:42:56 [index.ts] [32minfo[39m: Environment: development
+15:42:56 [index.ts] [32minfo[39m: Database connection established
+15:42:56 [index.ts] [32minfo[39m: Listening to port 3333
+15:42:58 [index.ts] [31merror[39m: Error: Refresh token not found
+15:43:04 [index.ts] [32minfo[39m: Environment: development
+15:43:04 [index.ts] [32minfo[39m: Database connection established
+15:43:04 [index.ts] [32minfo[39m: Listening to port 3333
+15:45:22 [index.ts] [32minfo[39m: Environment: development
+15:45:22 [index.ts] [32minfo[39m: Database connection established
+15:45:22 [index.ts] [32minfo[39m: Listening to port 3333
+15:45:47 [index.ts] [31merror[39m: Error: Refresh token not found
+15:45:47 [index.ts] [31merror[39m: Error: Not Found
+15:46:40 [index.ts] [31merror[39m: Error: Refresh token is invalid
+15:46:40 [index.ts] [31merror[39m: Error: Not Found
+15:48:31 [index.ts] [31merror[39m: Error: Refresh token not found
+15:49:58 [index.ts] [31merror[39m: Error: Refresh token not found

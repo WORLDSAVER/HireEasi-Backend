@@ -7,14 +7,14 @@ const router = Router();
 
 const routes = [
     {
-        path: '/auth.ts',
+        path: '/auth',
         route: authRouter
     },
 
 ];
 
 for (const route of routes) {
-    if (route.path === '/auth.ts') {
+    if (route.path === '/auth') {
         router.use(route.path, route.route);
     } else {
         router.use(route.path, verifyToken, route.route);

@@ -23,7 +23,7 @@ app.use(expressSanitizer());
 app.use(compression());
 app.use(cors(
     {
-        origin: ['http://localhost:3000', '*'],
+        origin: ['http://localhost:3333', '*'],
         credentials: true
     }
 ));

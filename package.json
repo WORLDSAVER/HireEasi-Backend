@@ -4,6 +4,7 @@
   "description": "Awesome project developed with TypeORM.",
   "type": "commonjs",
   "devDependencies": {
+    "@types/cookie-parser": "^1.4.3",
     "@types/dotenv": "^8.2.0",
     "@types/joi": "^17.2.3",
     "@types/node": "^16.11.10",
@@ -26,7 +27,7 @@
     "nodemon": "^2.0.16",
     "pg": "^8.4.0",
     "reflect-metadata": "^0.1.13",
-    "typeorm": "0.3.6",
+    "typeorm": "0.2.41",
     "winston": "^3.7.2",
     "xss-clean": "^0.1.1"
   },

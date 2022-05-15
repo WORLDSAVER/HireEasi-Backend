@@ -1,8 +1,8 @@
-import {AppDataSource} from "./data-source"
 import logger from './config/logger';
 import config from "./config/config";
 import {app} from "./server"
 import dotenv from "dotenv";
+import { createConnection } from 'typeorm';
 
 dotenv.config({path: '.env'});
 
@@ -10,12 +10,11 @@ logger.info(`Environment: ${process.env.NODE_ENV}`);
 
 let server;
 
-AppDataSource.initialize().then(async () => {
+createConnection().then(async _ => {
     logger.info('Database connection established');
     server = app.listen(config.port || process.env.PORT, async () => {
         logger.info(`Listening to port ${config.port || process.env.PORT}`);
     });
-
 }).catch(error => logger.error('Database connection error: ', error))
 
 
